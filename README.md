@@ -52,7 +52,7 @@ Community app for factories/companies/universities: posts, comments, chat, notif
 ---
 
 ## 🐍 GitHub Snake  
-![GitHub Snake Animation](https://github.com/Abdullah-3hmed/Abdullah-3hmed/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Abdullah-3hmed/Abdullah-3hmed/output/github-contribution-grid-snake.svg)
 
 ---
 
