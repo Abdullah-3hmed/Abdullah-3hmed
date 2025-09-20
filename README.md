@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer;Mobile+App+Engineer;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-
 ---
 
 ## 👋 Hi, I'm Abdullah Ahmed Mohamed  
@@ -51,11 +50,6 @@ Community app for factories/companies/universities: posts, comments, chat, notif
 
 ---
 
-## 🐍 GitHub Snake  
-![GitHub Snake Animation](https://raw.githubusercontent.com/Abdullah-3hmed/Abdullah-3hmed/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎓 Education  
 **B.Sc. in Computer Science & Artificial Intelligence**  
 Sohag University (2019 – 2023)  
@@ -68,4 +62,4 @@ Sohag University (2019 – 2023)
 
 ---
 
-✨ *“Passionate about building impactful mobile applications with modern technologies and clean architecture.”*  
+✨ *“Passionate about building impactful mobile applications with modern technologies and clean architecture.”*
