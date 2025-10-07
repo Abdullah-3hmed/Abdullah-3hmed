@@ -5,7 +5,7 @@
 ---
 
 ## 👋 Hi, I'm Abdullah Ahmed Mohamed  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/abdullah-ahmed107/](https://www.linkedin.com/in/abdullah-ahmed-22515a242/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ahmed-22515a242/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Abdullah-3hmed) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdullhahmed107@gmail.com)
 
